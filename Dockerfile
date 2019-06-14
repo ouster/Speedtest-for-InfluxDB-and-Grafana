@@ -1,4 +1,5 @@
-FROM python:alpine_arm32v7
+FROM arm32v7/python
+
 MAINTAINER Colin Nevin <cnevin@gmail.com>
 #MAINTAINER Allan Tribe <atribe13@gmail.com>
 
